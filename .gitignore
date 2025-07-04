@@ -1,0 +1,3 @@
+# Ignorar una carpeta específica
+venv/
+venv39/
